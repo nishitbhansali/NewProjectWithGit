@@ -7,4 +7,8 @@ public class Transaction {
   private void updateTransaction() {
 	  System.out.println("This is a transaction");
   }
+  
+  private void updateTransactionWithFeatureB() {
+	  System.out.println("This is a transaction with feature B");
+  }
 }
